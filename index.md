@@ -1,4 +1,4 @@
 ---
-title: HI, Welcome to my blog 
+title: Welcome to My personal Vlog.
 ---
 
